@@ -124,8 +124,27 @@ plt.show()
 ```
 
 ##Evaluate
+2.plots
+
 
 1.Testing on some new image:
+
+   (a).Resize and reshape image :
+   ```python
+   import cv2
+   test_img = cv2.imread('/content/cat.jpg')
+   plt.imshow(test_img)
+   test_input = test_img.reshape((1,256,256,3))
+   ```
+
+
+  (b)Print actual image:
+     ```python
+     plt.imshow(test_img)
+     ```
+
+     
+
 
 
    
