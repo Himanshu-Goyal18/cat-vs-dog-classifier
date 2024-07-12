@@ -125,6 +125,8 @@ plt.show()
 
 ##Evaluate
 2.plots
+![Alt text](relative/path/to/your/image.png)
+
 
 
 1.Testing on some new image:
