@@ -158,34 +158,6 @@ plt.show()
    ```
 
 
-### To Do
-
-1. **Improve Model Accuracy**:
-   - Experiment with different CNN architectures and hyperparameters to achieve higher accuracy.
-
-2. **Implement Data Augmentation**:
-   - Apply augmentation techniques (e.g., rotation, flipping) to enhance model robustness.
-
-3. **Document Code and Results**:
-   - Improve code documentation for clarity and include detailed results and metrics from experiments.
-
-4. **Prepare Deployment Strategy**:
-   - Plan for deploying the model, considering options like cloud platforms or Docker containers.
-
-5. **Create ReadMe Showcase**:
-   - Develop a comprehensive README.md with clear sections for overview, installation, usage, evaluation, and future plans.
-
-6. **Engage with Community**:
-   - Share your project on GitHub, participate in discussions, and seek feedback to improve your work.
-
-7. **Prepare for Job Applications**:
-   - Highlight key achievements, code quality, and your understanding of deep learning principles in your GitHub repository.
-
-8. **Continuous Learning and Improvement**:
-   - Stay updated with the latest developments in deep learning, apply new techniques, and iterate on your model based on feedback.
-
-
-
 
 ### Citation
 
